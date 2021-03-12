@@ -1,8 +1,24 @@
 ### Hello :earth_africa:, I'm James from Ireland.
 
+### Social Media:
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Twitter | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+
+<br />
+<br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesSinnott1994&show_icons=true&count_private=true)  
 
-![Profile views](https://gpvc.arturio.dev/JamesSinnott1994)  
+![Profile views](https://gpvc.arturio.dev/JamesSinnott1994)
+
+[website]: https://js1994website2.000webhostapp.com/
+[linkedin]: https://www.linkedin.com/in/jamessinnott1/
+[twitter]: https://twitter.com/J181294S
+[stackoverflow]: https://stackoverflow.com/users/4841695/user564930
+
 
 <!--
 **JamesSinnott1994/JamesSinnott1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
