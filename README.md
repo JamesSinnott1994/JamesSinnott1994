@@ -6,6 +6,7 @@
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Twitter | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="codeSTACKr | Vimeo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vimeo.svg" />][vimeo]
 
 <br />
 <br />
@@ -18,6 +19,7 @@
 [linkedin]: https://www.linkedin.com/in/jamessinnott1/
 [twitter]: https://twitter.com/J181294S
 [stackoverflow]: https://stackoverflow.com/users/4841695/user564930
+[vimeo]: https://vimeo.com/user86931403
 
 
 <!--
