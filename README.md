@@ -15,7 +15,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/JamesSinnott1994)
 
-[website]: https://js1994website2.000webhostapp.com/
+[website]: https://jamessinnott1994.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/jamessinnott1/
 [twitter]: https://twitter.com/J181294S
 [stackoverflow]: https://stackoverflow.com/users/4841695/user564930
